@@ -20,15 +20,15 @@ This is a responsive landing page for a fictional toy store called **NOT_A_BUBBB
 
 ### Desktop View
 
-![Desktop View 1](./screenshots/desktop.png)  
-![Desktop View 2](./screenshots/desktop_2.png)  
-![Desktop View 3](./screenshots/desktop_3.png)
+<img src="./screenshots/desktop.png" width="700" style="margin-bottom: 10px;">  
+<img src="./screenshots/desktop_2.png" width="700" style="margin-bottom: 10px;">  
+<img src="./screenshots/desktop_3.png" width="700">
 
 ### Mobile View
 
-![Mobile View 1](./screenshots/mobile.png)  
-![Mobile View 2](./screenshots/mobile_2.png)  
-![Mobile View 3](./screenshots/mobile_3.png)
+<img src="./screenshots/mobile.png" width="300" style="margin-bottom: 10px;">  
+<img src="./screenshots/mobile_2.png" width="300" style="margin-bottom: 10px;">  
+<img src="./screenshots/mobile_3.png" width="300">
 
 ## 🚀 How to Run
 
